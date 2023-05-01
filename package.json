@@ -2,5 +2,8 @@
   "name": "vide-grenier-en-ligne",
   "version": "2.0.0",
   "description": "Site de vide grenier en ligne",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.62.1"
+  }
 }
