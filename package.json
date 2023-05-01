@@ -5,5 +5,8 @@
   "license": "MIT",
   "dependencies": {
     "sass": "^1.62.1"
+  },
+  "scripts": {
+    "compile:sass": "sass ./style/main.scss ./public/style/main.css"
   }
 }
